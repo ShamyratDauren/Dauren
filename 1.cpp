@@ -12,7 +12,7 @@ using namespace std;
 int main(){
     cout<<"Monday"<<endl;
     cout<<"November"<<endl;
-    cout<<"Kuat";
+    cout<<"Dauren";
 return 0;
 }
 */
